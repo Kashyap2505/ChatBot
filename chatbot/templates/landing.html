@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form method="POST" action="/">
+    {{ form.hidden_tag() }}
+    <div class="row">
+        <div class="one-half column" style="margin-top: 25%">
+            <h4>Dashboard Login</h4>
+        </div>
+    </div>
+    <div class="row">
+    {% with messages = get_flashed_messages() %}  
+        {% if messages %}  
+            {% for message in messages %}  
+                <p style="color: red; font-size: 13px;">{{ message }}</p>  
+            {% endfor %}  
+        {% endif %}  
+    {% endwith %}  
+    </div>
+    <div class="row">
+        <div class="twelve columns">
+            {{ form.password.label }}
+            {{ form.password(class="u-full-width", placeholder="Enter password here") }}
+        </div>
+    </div>
+    <div class="row">
+        <div class="one-half column">
+            {{ form.submit(class="button-primary") }}
+        </div>
+    </div>
+</form>
+{% endblock %}

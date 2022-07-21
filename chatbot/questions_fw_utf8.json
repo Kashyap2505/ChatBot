@@ -1,0 +1,776 @@
+{
+  "FAQ": [
+    {
+      "tag": "what is qwiklabs",
+      "patterns": [
+        "What is Qwiklabs?",
+        "What is Qwiklabs used for?",
+        "qwiklabs is what",
+        "what is quick labs",
+        "what is quicklabs",
+        "wat is quick labs",
+        "wat is qwiklabs",
+        "what is quicklab",
+        "what is qwiklab",
+        "wat iz quick lab"
+      ],
+      "responses": [
+        "Qwiklabs provides real cloud environments that help developers and IT professionals learn cloud platforms and software, such as Firebase, Kubernetes and get hands-on experience."
+      ]
+    },
+    {
+      "tag": "Hello Greets",
+      "patterns": [
+        "Hey",
+        "Hello",
+        "Good afternoon",
+        "Hey fella",
+        "What's up",
+        "How you doin",
+	"What's up",
+	"hello there",
+        "Good evening.",
+        "It's nice to meet you.",
+	"hey bot",
+        "Hi!",
+        "What's new?"
+      ],
+      "responses": [
+        "Hey there,How may I help you!"
+      ]
+    },
+    {
+      "tag": "Bye",
+      "patterns": [
+        "Bye",
+        "Sayonara",
+        "Thank you",
+        "Byee",
+	"exit",
+        "Thanks for the help",
+        "It was really helpful",
+	"See you later",
+	"Goodbye",
+        "Have a nice day",
+        "Take care",
+	"thanks bye then",
+	"see ya",
+        "Catch you later",
+        "I gotta go"
+      ],
+      "responses": [
+        "Thank you,we hope your question has been answered!Go Cloud!"
+      ]
+    },
+    {
+      "tag": "irrelevant",
+      "patterns": [
+        "i like pizza",
+        "wanna join for a movie",
+	"watermelon sugar high",
+	"aksjd",
+        "i eat a biscuit",
+        "sakjdljas",
+        "amazing",
+        "awesome",
+        "sadasdsabfkhleifdbbksudhwlfgfhbjdvhgmshgffggkthdshfhkvwn",
+        "wanna go shopping",
+        "what's the date",
+        "what the where when",
+        "gashdgusacuh",
+        "fygydostgh",
+        "tyreqryuequycbxn",
+        "what is the time",
+	"is messi better than ronaldo",
+        "had dinner",
+        "what are you doing",
+        "what is the weather",
+        "who is dsc",
+        "what is the matter",
+        "how do i get into dsc",
+        "what's with this bot",
+        "when is the next rcb match",
+        "i like cake",
+        "do you watch"
+
+      ],
+      "responses": [
+        "Sorry, we request you to ask questions relevant to 30 Days of Google Cloud. "
+      ]
+    },
+    {
+      "tag": "complete one track",
+      "patterns": [
+        "I completed one track. What next?",
+        "What should I do after completing one track?",
+        "finished one track",
+        "finshed cloud engineering track",
+        "finished machine learning track",
+        "finished ml track",
+        "finshed data science track",
+        "finshed data science and ml track",
+        "finshed data science and machine learning track",
+        "finshed ds track",
+        "finshed ds and ml track",
+        "completed one track",
+        "done one track",
+        "done cloud engineering track",
+        "done machine learning track",
+        "done ml track",
+        "done data science track",
+        "done data science and ml track",
+        "after completing the tracks,what should i do",
+        "completed cloud engineering track",
+        "completed machine learning track",
+        "completed data science track",
+        "completed ds track",
+        "completed ml track",
+        "completed dsand ml track",
+        "completed data science and machine learning track",
+        "completed half of program",
+        "finsihed half of program"
+      ],
+      "responses": [
+        "Congratulations! You are now eligible for track specific goodies! If you want to continue your learning and get even more goodies, do try out the other track as well."
+      ]
+    },
+    {
+      "tag": "complete both tracks",
+      "patterns": [
+        "I completed both the tracks. What next?",
+        "What should I do after completing both the tracks?",
+        "I finished two tracks.",
+        "completed both tracks",
+        "what to do after completing both tracks",
+        "finished two tracks",
+        "finished both tracks",
+        "both tracks done",
+        "cloud engineering and ml track finished",
+        "i'm done with everything",
+        "i completed two tracks",
+        "finished everything",
+        "i'm done with everything",
+        "i completed everything",
+        "i finished everything in syllabus",
+        "i finished both the track given",
+        "after finishing everything, what should i do?",
+        "what to do after completeing both tracks",
+        "done with everything, what to do now?",
+        "what to do after doing all quests",
+        "my all tracks are over, what next",
+        "what should i do after finishing two tracks?",
+        "what to do after completing syllabus?"
+      ],
+      "responses": [
+        "Congratulations, you are amazing! Feel free to share your digital badges on social media. Details regarding your goodies will be shared after the program."
+      ]
+    },
+    {
+      "tag": "more than goodies",
+      "patterns": [
+        "Other than goodies, what will I get?",
+        "What will I get other than goodies?",
+        "Will I get anything apart from goodies?",
+        "Will I get anything other than goodies?",
+        "Can I get anything other than goodies?",
+        "will i get only goodies?",
+        "will i get extra stuff?",
+        "will i get something more than goodies",
+        "more than goodies, what will i get?",
+        "are we getting only goodies?",
+        "i want something more than goodies"
+      ],
+      "responses": [
+        "On successful completion, along with your goodies, you will also get digital badges that can be added to your resume and also your LinkedIn profile - which can be very useful for your career development!"
+      ]
+    },
+    {
+      "tag": "old particpants",
+      "patterns": [
+        "I've already done these tracks before 27th September 2021. Will I still get goodies?",
+        "Will I get goodies if I've done these tracks before?",
+        "Can I participate if I've done the tracks before?",
+        "Will I get goodies if I've completed these tracks before?",
+        "Can I participate if I've finished the tracks before?",
+        "what if i completed a little before?",
+        "what if i already completed some quests last years?",
+        "i already finsihed some quests before",
+        "what if i participated last year",
+        "what if i completed the tracks last year",
+        "i completed one track last time",
+        "i completed both tracks last time",
+        "i did the tracks last year",
+        "what if i completed everything before?",
+        "i completed the tracks before only",
+        "i finished the quests last year",
+        "what if i did this before?",
+        "i did the tracks before 27 sept"
+      ],
+      "responses": [
+        "We are only considering your progress from 27th September 2021 to 27th October 2021. Only the progress done in this month will be counted towards goodies. If you've started the tracks last year, we ask you to register with a new email ID if you want to receive the Qwiklabs credits and the cool goodies. This is because only your work from 27th September 2021 to 27th October 2021 will be counted towards your progress for this program."
+      ]
+    },
+    {
+      "tag": "goodies eligibility",
+      "patterns": [
+        "How will I be eligible to get my goodies?",
+        "How can I get goodies?",
+        "Who will get the goodies?",
+        "Who will get the prizes?",
+        "how can i get my prizes",
+        "how to get my prizes",
+        "how to get schwags",
+        "how to get goodies",
+        "who is eligible for goodies",
+        "who is eligible for prizes",
+        "am i eligible for prizes",
+        "am i eligible for goodies",
+        "who will get tshirt?",
+        "who will get goodies",
+        "who will get prizes",
+        "can i get goodies",
+        "can i get all goodies",
+        "how to receive goodies",
+        "what to do to get goodies",
+        "what should i do to get goodies",
+        "what to do to get goodies",
+        "what to do to get prizes",
+        "how to get prizes for gcp"
+      ],
+      "responses": [
+        "Completing at least one track successfully between 27th September 2021 to 27th October 2021 will get you goodies and digital badges! \nWe highly encourage you to utilise your Qwiklabs credits to the fullest and complete both the tracks for bonus goodies!"
+      ]
+    },
+    {
+      "tag": "last date",
+      "patterns": [
+        "When should I complete these quests?",
+        "What is the last date?",
+        "What's the date for completion?",
+        "When will the event end?",
+        "last date",
+        "by when should we complete",
+        "gcp last date",
+        "gcp final date",
+        "when should we be done",
+        "when should we complete everything",
+        "what is the final day",
+        "what is the deadline",
+        "deadline for gcp",
+        "when should i finish off my quests",
+        "by when should i finish my quests",
+        "what is the submission date",
+        "when will gcp end",
+        "how much time do i have to complete",
+        "when is the last date",
+        "when is the deadline",
+        "by when should we submit",
+        "when should we finish by"
+      ],
+      "responses": [
+        "If you want to be eligible for goodies, then you must complete these tracks before 27th October 2021. "
+      ]
+    },
+    {
+      "tag": "time for one lab",
+      "patterns": [
+        "How long does it take to complete a lab?",
+        "How much time does it take to complete a lab?",
+        "How much time does each session need?",
+        "how long will each lab take?",
+        "how much time do i need for one lab",
+        "time for one lab",
+        "time taken for one lab",
+        "duration of one lab",
+        "how long will a lab be",
+        "length of a lab",
+        "duration for completing a lab",
+        "time length of a lab"
+      ],
+      "responses": [
+        "Labs take between 15 minutes up to 2 hours, depending on the complexity of the lab itself. You can find lab durations listed on the site."
+      ]
+    },
+    {
+      "tag": "when goodies",
+      "patterns": [
+        "When will I get my goodies?",
+        "Where are my goodies?",
+        "I've completed everything, will I get my goodies?",
+        "I've finished the tracks, when will I get my goodies?",
+        "done with everything, when will i get my goodies",
+        "when will i get my prizes",
+        "when will i get goodies",
+        "when will i get schwags",
+        "when will i get swags",
+        "i completed tracks, where are my prizes",
+        "i completed tracks, where are my goodies",
+        "i completed tracks, when will get goodies",
+        "what are the goodies",
+        "i finished the tracks, where are my prizes",
+        "i finished the tracks, where are my goodies",
+        "i finished the tracks, when will get goodies",
+        "i finished the tracks, when will get prizes",
+        "where are my goodies after doing the tracks?",
+        "where are my prizes after doing the tracks?",
+        "where are my prizes",
+        "after finishing the tracks, how to collect prizes",
+        "after completing the tracks, how to collect goodies",
+        "how can i get goodies after completing",
+        "how can i get schwags after completing",
+        "how can i get prizes after completing"
+      ],
+      "responses": [
+        "If you've finished one or more tracks mentioned in the syllabus, details regarding these will be shared to you after the program ends. Stay tuned!"
+      ]
+    },
+    {
+      "tag": "qwiklabs credits",
+      "patterns": [
+        "I am not able to get the Qwiklabs credits after enrolling in the program, what to do?",
+        "I didn't get my Qwiklabs credits",
+        "where are my qwiklabs credits",
+        "didnt get credits",
+        "didnt get quick labs credits",
+        "didnt receive 600 credits",
+        "didnt get qwiklabs credits",
+        "where are my 600 credits",
+        "i did not get credits",
+        "i did not get gcp credits",
+        "i dont know where my credits are",
+        "i registered and did not get my credits",
+        "i have 0 credits",
+        "i followed the steps and didnt get credits",
+        "havent received qwiklabs credits",
+        "havent gotten qwiklabs credits",
+        "havent gotten quick labs credits",
+        "i didnt receuve any credits",
+        "i didnt get any credits",
+        "why did i not get any credits",
+        "i dont have any credits",
+        "i dont have any gcp credits",
+        "i have issues with my credits",
+        "i have problems with my qwiklabs credits",
+        "i have issues with getting my qwiklabs credits",
+        "credits didnt get",
+        "credits didnt receive",
+        "qwiklabs credits issue",
+        "quick labs credits problem",
+        "qwiklbas credits problem",
+        "facing problems with qwiklabs credits",
+        "facing issues with quicklabs credits",
+        "facing difficulties with qwiklabs credits",
+        "i am finding it difficult to get my qwiklabs credits"
+      ],
+      "responses": [
+        "If you haven't gotten your Qwiklabs credits, try the following solutions:\n1. https://youtu.be/NtpOozyucdA - Here is a helpful video created by one of our facilitators that will tell you how to get the credits.\n2. If you have just completed the lab, then please wait for a few minutes and refresh your chrome browser tab a few times.\n3. Start the lab again, wait for 5 minutes and end the lab and then check again.\n4. Reach out to your Facilitator and they will help you here.\n5. Reach out to the Qwiklabs Chat support via the Qwiklabs home page. (You will need to click on the help button \"?\" alongside your profile icon on the top right corner when logged-in in order to access chat support)\n6. Just drop an email to dscsupport@qwiklabs.com."
+      ]
+    },
+    {
+      "tag": "problem in qwiklabs",
+      "patterns": [
+        "I am stuck! I need help with Qwiklabs, what should I do?",
+        "I have a problem with Qwiklabs.",
+        "I have an issue with Qwiklabs.",
+        "I'm facing a bug with Qwiklabs",
+        "facing difficulty with quick labs",
+        "facing difficulties with qwiklabs",
+        "encountered a problem with qwiklabs",
+        "facing a problem with qwiklabs",
+        "issue with qwiklabs",
+        "problem with qwiklabs",
+        "qwiklabs is buggy",
+        "having problems with qwiklabs",
+        "qwiklabs issue",
+        "qwiklabs bug",
+        "quick labs difficulty",
+        "issues with using qwiklabs",
+        "problem with using qwiklabs"
+      ],
+      "responses": [
+        "If you're facing problems with Qwiklabs, here a few ways you can get unstuck:\n1. Reach out to your Facilitators.\n2. Just reach out to the Qwiklabs chat support or drop them an email at dscsupport@qwiklabs.com"
+      ]
+    },
+    {
+      "tag": "qwiklabs blocked",
+      "patterns": [
+        "Why is my Qwiklabs account blocked and how to get it unblocked?",
+        "My Qwiklabs account is blocked.",
+        "account blocked",
+        "quick labs account blocked",
+        "how to unblock qwiklabs account",
+        "my account is blocked",
+        "my account got blocked what to do",
+        "i cant use my account",
+        "my account is banned",
+        "account is not usable",
+        "qwiklabs banned my account",
+        "qwiklabs blocked my account",
+        "i cant access the labs",
+        "i cant access qwiklabs",
+        "i cant open the tracks",
+        "i think my account is blocked",
+        "can i unblock qwiklabs account",
+        "steps to unblock qwiklabs",
+        "procedure to unblock qwiklabs",
+        "method to unblock qwiklabs",
+        "why is my account banned",
+        "why is my account blocked",
+        "why is qwiklabs blocked"
+      ],
+      "responses": [
+        "If you try to use the resources which are not intended to be used in the lab the account will get blocked. See our official support article https://support.google.com/qwiklabs/answer/9157984?hl=en to get more clarity on why this happened.\nHere are a few examples which may lead to use resource out of the lab scope:\n\n1. Creating an extra VM instance than the set limit for maximum number of instances you can launch in the Cloud Console for the lab.\n2. Creating more number of nodes which are not intended to be created for the lab in the Cloud Console for the lab\n3. Specifying extra number of cores in the machine types with higher computing power.\n4. Running different commands which may lead to launch of extra resources other than the lab scope.\nThe above mentioned are a few examples which can get your account blocked, if you are doing anything similar, mentioned in the above examples your account can get blocked as a result of those actions as well. Please reach out to dscsupport@qwiklabs.com to get it unblocked."
+      ]
+    },
+    {
+      "tag": "quota expired",
+      "patterns": [
+        "Why does my Qwiklabs page show a red banner with \"Quota Expired\"?\"",
+        "Qwiklabs shows quota expired.",
+        "Qwiklabs shows a red banner.",
+        "Why is Qwiklabs showing a red banner?",
+        "qwiklabs red banner",
+        "my quota got expired",
+        "qwiklabs quota expired",
+        "qwiklabs red banner",
+        "qwiklabs is showing red banner",
+        "qwiklabs is displaying red banner",
+        "qwiklbas is showing quota expired",
+        "qwiklabs is displaying quota expired",
+        "my qwiklabs quota expired",
+        "how to solve quota expired",
+        "how can i correct quota expired",
+        "what should i do quota expired",
+        "how to resolve quota expired",
+        "remove red banner qwiklabs",
+        "change quota in qwiklabs"
+      ],
+      "responses": [
+        "As part of the credits pass, you have 5 attempts for each lab in the program. If you try a lab more than 5 times, then your quota gets expired. To reset your quota, please reach out to dscsupport@qwiklabs.com."
+      ]
+    },
+    {
+      "tag": "didn't get credits after steps",
+      "patterns": [
+        "I have followed the steps in the email to get the credits pass, still I have not received it, what should I do?",
+        "I haven't gotten my Qwiklabs credits even after following the steps.",
+        "followed the steps and didnt get credits",
+        "after doing the steps i didnt get credits",
+        "did not receive credits after following instructions",
+        "where are my credits? i followed all the steps",
+        "did all the steps and didnt get credits",
+        "where are my credits after following instructions",
+        "i did all the steps and didnt get the credits",
+        "i didnt get credits after doing all the steps",
+        "havent received credits and i followed the intructions",
+        "followed the steps and didnt get credits",
+        "even after following the procedure i didnt get credits",
+        "where are my credits? i followed the instructions",
+        "i have 0 credits even after following the instructions",
+        "where are my credits i did the steps",
+        "i didnt get any credits even after doing the procedure",
+	"i didn't get credits what to do"
+      ],
+      "responses": [
+        "If you haven't received your Qwiklabs credits even after following the instructions given, please repeat the steps again but this time in an incognito window and do remember to keep in mind the instructions given in the 1st Qwiklabs related FAQs in https://events.withgoogle.com/30daysofgooglecloud/faqs/#content and you will surely get your credits. https://youtu.be/NtpOozyucdA - Here is a video created by one of our previous facilitators that will help you get the pass."
+      ]
+    },
+    {
+      "tag": "labs",
+      "patterns": [
+        "How to take a lab on Qwiklabs?",
+        "How do labs work",
+        "How can I use Qwiklabs?",
+        "How do I use Qwiklabs?",
+        "i dont understand qwiklabs",
+        "not sure how qwiklabs work",
+        "how to attend labs",
+        "how can i use qwiklabs",
+        "what are labs",
+        "i didnt understand how labs work",
+        "what are qwiklabs labs"
+      ],
+      "responses": [
+        "Just see the video tutorial here to get started -  https://www.youtube.com/watch?v=cyp7soKLOYI "
+      ]
+    },
+    {
+      "tag": "quest",
+      "patterns": [
+        "What is a Quest?", 
+        "What is a Qwiklabs Quest?", 
+        "what is quest", 
+        "can you tell about quests",
+        "quest what is it", 
+        "can you clarify what a quest is",
+        "deine quests",
+        "wat is quicklabs quest",
+        "wat iz quick lab quest",
+        "qwiklabs quests what is that",
+        "what is a quest in qwiklabs",
+        "what are quests in qwiklabs"
+      ],
+      "responses": [
+        "A quest is a learning path that contains a number of hands-on labs. Complete a quest to earn a badge. Qwiklabs Quests are learning paths that consist of a collection of labs organized by technologies, specific cloud services, and practical use cases. Quests range from introductory to advanced level."
+      ]
+    },
+    {
+      "tag": "badge",
+      "patterns": [
+        "What is a skill badge? ",
+        "What is the digital badge?",
+        "What is the shareable badge?",
+        "what can i do with badge",
+        "what is a badge",
+        "what is resume badge",
+        "what badges am i getting",
+        "what is linkedin badge",
+        "what badge are we getting",
+        "tell me more about badges",
+        "tell me more about digital badges",
+        "how to get badges",
+        "how can i get badges",
+        "what are skill badge",
+        "skill badge what is it",
+        "digital badge what is that"
+      ],
+      "responses": [
+        "Skill badges are exclusive digital Google Cloud badges that demonstrate your growing Google Cloud recognized skillset. You can earn them by completing skill badge quests on Qwiklabs.Once you earn all the badges belonging to a track, you'll be eligible for goodies. You can also share them on your social media profiles.To learn more about skill badges, visit https://cloud.google.com/training/badges."
+      ]
+    },
+    {
+      "tag": "leftover credits",
+      "patterns": [
+        "I have some left over credits. Can I use them for other labs?",
+        "What can I do with the leftover credits?",
+        "seems like i have extra credits",
+        "i have credits remaining",
+        "i have more credits than needed",
+	"i have extra credits",
+        "can i use my extra credits",
+        "is it compulsary to use credits only for gcp",
+        "where can i use my extra credits",
+        "i have more credits than i need",
+        "i have too many credits",
+        "got extra credits",
+        "what to do with extra credits",
+        "how to use extra credits",
+        "got too many credits",
+        "i got a lot of credits",
+        "more credits remaining",
+        "what to do with unused credits",
+        "where to use unused credits"
+      ],
+      "responses": [
+        "If you've followed the steps correctly, you will have a Qwiklabs monthly pass for 2 months. Once you have completed both tracks, please feel explore any other labs you find interesting."
+      ]
+    },
+    {
+      "tag": "share badge",
+      "patterns": [
+        "How to share badges on Social media?",
+        "What can I do with the badges?",
+        "Can I share my achievements?",
+        "How to share my badges?",
+        "i want to share badges",
+        "how to show my badges to others",
+        "how to add badges in my resume",
+        "how to add badges in linkedin",
+        "can i share skill badges in instagram",
+        "steps to share my badge",
+        "procedure to share badges",
+        "how can i share badges",
+        "method to share badges",
+        "how to showcase badges",
+        "ways to display badges",
+        "what to do with badges",
+        "what should i do with badges",
+        "i got badges, what can i do now",
+        "after getting badges what should i do?",
+        "what can i do with badges",
+        "stuff to do with badges",
+        "things to do with badges",
+        "what things can i do with badges",
+        "what should i do with my digital badges"
+      ],
+      "responses": [
+        "Your badges are easily shareable!\n1. Make your profile public.\n2. Right-click View Public Profile and select copy link address.\n3. Create links on your social media pages or resume.\nTip: On LinkedIn, add your badge as a certification."
+      ]
+    },
+    {
+      "tag": "lab completion",
+      "patterns": [
+        "How to check if I had successfully completed my last lab?",
+        "How can I check my progress?",
+        "Can I check how much I've finished?",
+        "how to track my progress",
+        "what is my progress",
+        "where can i see my progress",
+        "where can i see how much labs i finished",
+        "where can i see how many labs i finished",
+        "where can i see how much quests i finished",
+        "where can i see how many quests i finished",
+        "how i can see how many labs i finished",
+        "how can i see how many quests i finished",
+        "where to check my progress",
+        "where to see what i completed",
+        "how to see what i completed",
+        "how to see how much i finished",
+        "what way can i check how much is over",
+        "what way can i check my progress",
+        "how to check which labs i finished",
+        "how to see what labs i finished",
+        "how can i see what i did",
+        "i want to check my completed labs",
+        "i want to see what i've completed",
+        "i want to see my progress"
+      ],
+      "responses": [
+        "Please check lab completions on the My Learning page of your Qwiklabs account. You may refer to the https://google.qwiklabs.com/my_learning page."
+      ]
+    },
+    {
+      "tag": "no email",
+      "patterns": [
+        "I did not receive an invitation email after applying through the Enrolment form. What should I do?",
+        "Didn't get the email.",
+        "where is my mail",
+        "my inbox is empty",
+        "didnt receive gcp mail",
+        "didnt receive qwiklabs email",
+        "havent gotten enrollment email",
+        "i didn't get mail",
+	"i didn't get mail",
+        "i didn't recieve mail",
+        "havent gotten confirmation email",
+        "where is my qwiklabs email",
+        "i think my registration failed",
+        "did i register successfully",
+        "did my enrollment work",
+        "i didnt get mail even after filling the form",
+        "where is the email after filling the form"
+      ],
+      "responses": [
+        "Just reach out to the Facilitator and she will cross-check, help you get the instructions and enrol you in the program."
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "What is 30 days of GCP?",
+        "What is this event?",
+        "What is this program?",
+        "Can I get an introduction of the program?",
+        "what is gcp",
+        "gcp",
+        "gcp event what is it",
+	"what's gcp about",
+        "what is the program",
+        "what is 30 days of google cloud program",
+        "what is google cloud program",
+        "short description of program ",
+        "desrcibe gcp"
+      ],
+      "responses": [
+        "30 Days of Google Cloud program will provide you an opportunity to kickstart your career in cloud and get hands-on practice on Google Cloud Platform - the tool that powers apps like Google Search, Gmail and YouTube. This program is completely free and you'll get super cool goodies on successful completion!"
+      ]
+    },
+    {
+      "tag": "requirements",
+      "patterns": [
+        "What do I need to be a part of this?",
+        "What should I prepare for this?",
+        "What are the requirements?",
+        "What are the prerequisites?",
+        "what do i need to know",
+        "any prerequisites?",
+        "what requirements should i fulfill",
+        "system requirements",
+        "what to prepare",
+        "what to keep ready",
+        "how to be ready",
+        "what should i do to be ready",
+        "how can i be ready",
+        "does gcp have prerequisites",
+        "any requirements?",
+ 	"what are the prequisites"
+      ],
+      "responses": [
+        "You need to have access to a working internet connection & a laptop with the latest Chrome browser. \nYou need to be above the age of 18\nYou need to be a student of JSSSTU.\nNo prerequisites required!"
+      ]
+    },
+    {
+      "tag": "syllabus",
+      "patterns": [
+        "What will I be learning?",
+        "What are the tracks?",
+        "What is the syllabus for the event?",
+        "what is the portion",
+        "syllabus what is it",
+        "what are the tracks",
+        "what tracks will i be learning",
+        "what will i learn in gcp",
+        "what quests are there",
+        "what labs are there",
+        "what tracks do we have",
+        "what quests do we have",
+        "what am i gonna learn",
+        "what topics will i learn",
+        "what will i learn"
+      ],
+      "responses": [
+        "You will have the choice to pursue two tracks - Cloud Engineering Track and Data Science & Machine Learning Track. For more details, check out this page. https://events.withgoogle.com/30daysofgooglecloud/program-syllabus/#content"
+      ]
+    },
+    {
+      "tag": "benefits",
+      "patterns": [
+        "What's the point of doing this program?",
+        "Why should I take part?",
+        "What will I get from this program?",
+        "How will this benefit me?",
+        "what will i get",
+        "what is the point",
+        "what will i achieve",
+        "why should i do this",
+        "what will i get out of this",
+        "how will i be benefitted",
+        "will this help my career",
+        "how will this help my career",
+        "what perks will i get",
+        "what are the perks of gcp",
+        "what are the benefits of gcp",
+        "what is the point of gcp",
+        "why should i participate",
+        "should i take part",
+        "is it worth taking part"
+      ],
+      "responses": [
+        "30 Days of Google Cloud program will provide you an opportunity to kickstart your career in the cloud. Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud. If you get stuck, you will have your Campus Facilitators to help.\nThe skills and badges you gain from the program can be a game-changer for your career, like it has for so many seniors in SJCE!"
+      ]
+    },
+    {
+      "tag": "doubts",
+      "patterns": [
+        "I still have questions, whom should I reach out to?",
+        "My doubt is not answered.",
+        "I didn't understand the answer.",
+        "I didn't get the answer.",
+        "Whom can I approach",
+        "wrong answer",
+	"i had doubts",
+	"can you help me",
+        "i have more questions",
+        "i have more doubts",
+        "i have more queries",
+        "i need help",
+        "my doubt is complicated",
+        "my query was not resolved",
+        "my question was not answered"
+      ],
+      "responses": [
+        "If your query didn't get resolved, please reach out to your campus facilitator Poorvi.\n You can also join our Discord Community Server to join fellow participants and get your doubts clarified! https://discord.dscjssstu.in/\n For more detailed FAQs, please check the guide in our Instragram bio (@gdscjssstu). "
+      ]
+    }
+  ]
+}
